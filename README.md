@@ -9,7 +9,6 @@ $ sudo apt-get install ros-melodic-dynamixel-sdk
 $ sudo apt-get install ros-melodic-turtlebot3-msgs
 $ sudo apt-get install ros-melodic-turtlebot3
 
-**And then i choose the turtlebot3**
 
 echo "export TURTLEBOT3_MODEL=burger" >> ~/.bashrc
 echo "export TURTLEBOT3_MODEL=waffle_pi" >> ~/.bashrc
